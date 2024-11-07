@@ -1,5 +1,7 @@
 {
-  "name": "eslint-boundaries-test",
+  "name": "eslint-boundaries-reproduction",
+  "author": "Henning Schindler",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "lint": "eslint"
